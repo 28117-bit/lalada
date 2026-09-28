@@ -10,3 +10,11 @@
 # ==========================================
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+price = int(input)
+n = int(input)
+if n >= 10 :
+    discout 20%
+elif 5<=n<10 :
+    discout 10%
+else :
+    discout 0%    
