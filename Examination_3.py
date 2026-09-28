@@ -9,3 +9,7 @@
 # ==========================================
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+A = int(input)
+B = int(input)
+c = int(input)
+print(the most number) 
